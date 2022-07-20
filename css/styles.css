@@ -50,7 +50,7 @@ main {
 }
 
 #right-22 {
-    padding: 5px;
+    margin: 5px;
 }
 
 #img-21, #img-31, #img-41 {
@@ -74,8 +74,7 @@ main {
 #img-22, #img-32, #img-42, #img-52 {
     width: 200px;
     height: 100px;
-    background-size: cover;
-    
+    background-size: cover;    
 }
 
 #img-22, #img-32, #img-42, #img-52 {
