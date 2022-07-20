@@ -1,0 +1,130 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1549880338-65ddcdfd017b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-size: cover;
+}
+
+main {
+    display: flex;
+    flex-direction: raw;
+    justify-content: space-around;
+}
+
+#card {
+    width: 600px;
+    margin: 40px 0px;
+    padding: 30px;
+    background-color: white;
+}
+
+#card-header {
+    display: inline;
+}
+
+#avater {
+    width: 100px;
+    height: 100px;
+    background-image: url("https://www.thefamouspeople.com/profiles/images/matt-leblanc-1.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 5px auto;
+}
+
+#name {
+    text-align: center;
+}
+
+#img-header {
+    width: 580px;
+    height: 150px;
+    margin: 5px;
+    padding: 10px;
+    background-image: url("https://images.unsplash.com/photo-1632226901385-e07fe19a345e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80");
+    background-size: cover;
+}
+
+.inside-card {
+    margin: 20px auto;
+    padding: 5px opx;
+    display: flex;
+    justify-content: space-between;
+}
+
+#img-21, #img-31, #img-41 {
+    width: 300px;
+    height: 100px;
+    background-size: cover;
+}
+
+#img-21 {
+    background-image: url("https://ichef.bbci.co.uk/news/976/cpsprodpb/12E89/production/_88094477_topgear2_976bbc.jpg");
+}
+
+#img-31 {
+    background-image: url("https://static.onecms.io/wp-content/uploads/sites/6/2016/01/gettyimages-143480403.jpg");
+}
+
+#img-41 {
+    background-image: url("https://pics.filmaffinity.com/Lost_in_Space-225990277-large.jpg");
+}
+
+#img-22, #img-32, #img-42, #img-52 {
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+    
+}
+
+#img-22, #img-32, #img-42, #img-52 {
+    background-image: url("https://media.giphy.com/media/VIe5NOnlPxJ9FcONBq/giphy.gif");    
+}
+
+#img-22:hover {
+    background-image: url("https://media.giphy.com/media/iO0b6ty7tQfnuuvgpU/giphy.gif");
+}
+
+#img-32:hover {
+    background-image: url("https://media.giphy.com/media/eJS4WUQ7MkNKx3qxPN/giphy.gif");
+}
+
+#img-42:hover {
+    background-image: url("https://media.giphy.com/media/l41Yv5XKnUsIVpslO/giphy.gif");
+}
+
+#img-52:hover {
+    background-image: url("https://media.giphy.com/media/RfAuCCsCMVJLgPX88v/giphy.gif");
+}
+
+#no-bg {
+    padding: 5px;  
+}
+h1 {
+    margin: 45px 0px;
+    text-align: center;
+    font-size: 42px;
+}
+
+.p {
+    text-indent: 10px;
+    font-weight: bolder;
+    font-size: 200%;
+    line-height: 60px;
+    margin: 60px 5px;
+    padding: 5px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.footer-link {
+    padding: 10px;
+}
+
+a {
+    color: white;
+    padding: 2px 10px;
+    border: 1px solid white;
+    border-radius: 3px;
+}
