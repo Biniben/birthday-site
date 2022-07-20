@@ -17,12 +17,12 @@ main {
 }
 
 #card-header {
-    display: inline;
+    display: flex;
 }
 
 #avater {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 110px;
     background-image: url("https://www.thefamouspeople.com/profiles/images/matt-leblanc-1.jpg");
     background-size: cover;
     border-radius: 50%;
@@ -47,6 +47,10 @@ main {
     padding: 5px opx;
     display: flex;
     justify-content: space-between;
+}
+
+#right-22 {
+    padding: 5px;
 }
 
 #img-21, #img-31, #img-41 {
