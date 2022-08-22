@@ -1,4 +1,4 @@
-# https://biniben.github.io/happy-birthday-site/
+# https://biniben.github.io/Scrimba-Happy-Birthday-Site/
 
 ## About Scrimba
 
