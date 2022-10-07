@@ -1,4 +1,4 @@
-# Front End Career Path
+# Frontend Developer Career Path
 
 # Module 2: Web dev basic
 
