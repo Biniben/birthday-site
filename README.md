@@ -1,3 +1,5 @@
+Module 2: Web dev basic
+
 #4 class project
 
 ## About Scrimba
