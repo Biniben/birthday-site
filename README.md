@@ -1,6 +1,6 @@
-Module 2: Web dev basic
+# Front End Career Path
 
-#4 class project
+# Module 2: Web dev basic
 
 ## About Scrimba
 
