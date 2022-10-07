@@ -1,4 +1,4 @@
-# https://biniben.github.io/Scrimba-Happy-Birthday-Site/
+#4 class project
 
 ## About Scrimba
 
